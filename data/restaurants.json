@@ -1,0 +1,666 @@
+[
+  {
+    "restaurant_id": "GF-MUM-001",
+    "name": "GoodFoods Bandra West",
+    "location": "Bandra West",
+    "city": "Mumbai",
+    "address": "100 Bandra West, Mumbai 400001",
+    "phone": "+91-22-20013001",
+    "seating_capacity": 35,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Private dining",
+      "Valet parking",
+      "Live music on weekends"
+    ]
+  },
+  {
+    "restaurant_id": "GF-MUM-002",
+    "name": "GoodFoods Bandra East",
+    "location": "Bandra East",
+    "city": "Mumbai",
+    "address": "200 Bandra East, Mumbai 400002",
+    "phone": "+91-22-20023002",
+    "seating_capacity": 40,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Outdoor seating",
+      "Valet parking",
+      "Live music on weekends"
+    ]
+  },
+  {
+    "restaurant_id": "GF-MUM-003",
+    "name": "GoodFoods Juhu",
+    "location": "Juhu",
+    "city": "Mumbai",
+    "address": "300 Juhu, Mumbai 400003",
+    "phone": "+91-22-20033003",
+    "seating_capacity": 45,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Private dining",
+      "Valet parking",
+      "Live music on weekends"
+    ]
+  },
+  {
+    "restaurant_id": "GF-MUM-004",
+    "name": "GoodFoods Andheri",
+    "location": "Andheri",
+    "city": "Mumbai",
+    "address": "400 Andheri, Mumbai 400004",
+    "phone": "+91-22-20043004",
+    "seating_capacity": 50,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Outdoor seating",
+      "Valet parking",
+      "Live music on weekends"
+    ]
+  },
+  {
+    "restaurant_id": "GF-MUM-005",
+    "name": "GoodFoods Powai",
+    "location": "Powai",
+    "city": "Mumbai",
+    "address": "500 Powai, Mumbai 400005",
+    "phone": "+91-22-20053005",
+    "seating_capacity": 55,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Private dining",
+      "Valet parking",
+      "Live music on weekends"
+    ]
+  },
+  {
+    "restaurant_id": "GF-MUM-006",
+    "name": "GoodFoods Worli",
+    "location": "Worli",
+    "city": "Mumbai",
+    "address": "600 Worli, Mumbai 400006",
+    "phone": "+91-22-20063006",
+    "seating_capacity": 60,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Outdoor seating",
+      "Valet parking",
+      "Live music on weekends"
+    ]
+  },
+  {
+    "restaurant_id": "GF-MUM-007",
+    "name": "GoodFoods Fort",
+    "location": "Fort",
+    "city": "Mumbai",
+    "address": "700 Fort, Mumbai 400007",
+    "phone": "+91-22-20073007",
+    "seating_capacity": 65,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Private dining",
+      "Valet parking",
+      "Live music on weekends"
+    ]
+  },
+  {
+    "restaurant_id": "GF-MUM-008",
+    "name": "GoodFoods Dadar",
+    "location": "Dadar",
+    "city": "Mumbai",
+    "address": "800 Dadar, Mumbai 400008",
+    "phone": "+91-22-20083008",
+    "seating_capacity": 70,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Outdoor seating",
+      "Valet parking",
+      "Live music on weekends"
+    ]
+  },
+  {
+    "restaurant_id": "GF-MUM-009",
+    "name": "GoodFoods Borivali",
+    "location": "Borivali",
+    "city": "Mumbai",
+    "address": "900 Borivali, Mumbai 400009",
+    "phone": "+91-22-20093009",
+    "seating_capacity": 75,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Private dining",
+      "Valet parking",
+      "Live music on weekends"
+    ]
+  },
+  {
+    "restaurant_id": "GF-MUM-010",
+    "name": "GoodFoods Malad",
+    "location": "Malad",
+    "city": "Mumbai",
+    "address": "1000 Malad, Mumbai 400010",
+    "phone": "+91-22-20103010",
+    "seating_capacity": 80,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Outdoor seating",
+      "Valet parking",
+      "Live music on weekends"
+    ]
+  },
+  {
+    "restaurant_id": "GF-BLR-011",
+    "name": "GoodFoods Koramangala",
+    "location": "Koramangala",
+    "city": "Bangalore",
+    "address": "1100 Koramangala, Bangalore 560011",
+    "phone": "+91-80-40115011",
+    "seating_capacity": 68,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Rooftop seating",
+      "Chef's table",
+      "Wine bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-BLR-012",
+    "name": "GoodFoods Indiranagar",
+    "location": "Indiranagar",
+    "city": "Bangalore",
+    "address": "1200 Indiranagar, Bangalore 560012",
+    "phone": "+91-80-40125012",
+    "seating_capacity": 71,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Rooftop seating",
+      "Chef's table",
+      "Wine bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-BLR-013",
+    "name": "GoodFoods Whitefield",
+    "location": "Whitefield",
+    "city": "Bangalore",
+    "address": "1300 Whitefield, Bangalore 560013",
+    "phone": "+91-80-40135013",
+    "seating_capacity": 74,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Rooftop seating",
+      "Chef's table",
+      "Wine bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-BLR-014",
+    "name": "GoodFoods MG Road",
+    "location": "MG Road",
+    "city": "Bangalore",
+    "address": "1400 MG Road, Bangalore 560014",
+    "phone": "+91-80-40145014",
+    "seating_capacity": 77,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Rooftop seating",
+      "Chef's table",
+      "Wine bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-BLR-015",
+    "name": "GoodFoods HSR Layout",
+    "location": "HSR Layout",
+    "city": "Bangalore",
+    "address": "1500 HSR Layout, Bangalore 560015",
+    "phone": "+91-80-40155015",
+    "seating_capacity": 80,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Rooftop seating",
+      "Chef's table",
+      "Wine bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-BLR-016",
+    "name": "GoodFoods Jayanagar",
+    "location": "Jayanagar",
+    "city": "Bangalore",
+    "address": "1600 Jayanagar, Bangalore 560016",
+    "phone": "+91-80-40165016",
+    "seating_capacity": 83,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Rooftop seating",
+      "Chef's table",
+      "Wine bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-BLR-017",
+    "name": "GoodFoods BTM Layout",
+    "location": "BTM Layout",
+    "city": "Bangalore",
+    "address": "1700 BTM Layout, Bangalore 560017",
+    "phone": "+91-80-40175017",
+    "seating_capacity": 86,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Rooftop seating",
+      "Chef's table",
+      "Wine bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-BLR-018",
+    "name": "GoodFoods Electronic City",
+    "location": "Electronic City",
+    "city": "Bangalore",
+    "address": "1800 Electronic City, Bangalore 560018",
+    "phone": "+91-80-40185018",
+    "seating_capacity": 89,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Rooftop seating",
+      "Chef's table",
+      "Wine bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-DEL-019",
+    "name": "GoodFoods Connaught Place",
+    "location": "Connaught Place",
+    "city": "Delhi",
+    "address": "1900 Connaught Place, New Delhi 110019",
+    "phone": "+91-11-60197019",
+    "seating_capacity": 78,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Garden seating",
+      "Private rooms",
+      "Full bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-DEL-020",
+    "name": "GoodFoods Hauz Khas",
+    "location": "Hauz Khas",
+    "city": "Delhi",
+    "address": "2000 Hauz Khas, New Delhi 110020",
+    "phone": "+91-11-60207020",
+    "seating_capacity": 80,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Garden seating",
+      "Private rooms",
+      "Full bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-DEL-021",
+    "name": "GoodFoods Saket",
+    "location": "Saket",
+    "city": "Delhi",
+    "address": "2100 Saket, New Delhi 110021",
+    "phone": "+91-11-60217021",
+    "seating_capacity": 82,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Garden seating",
+      "Private rooms",
+      "Full bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-DEL-022",
+    "name": "GoodFoods Greater Kailash",
+    "location": "Greater Kailash",
+    "city": "Delhi",
+    "address": "2200 Greater Kailash, New Delhi 110022",
+    "phone": "+91-11-60227022",
+    "seating_capacity": 84,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Garden seating",
+      "Private rooms",
+      "Full bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-DEL-023",
+    "name": "GoodFoods Vasant Vihar",
+    "location": "Vasant Vihar",
+    "city": "Delhi",
+    "address": "2300 Vasant Vihar, New Delhi 110023",
+    "phone": "+91-11-60237023",
+    "seating_capacity": 86,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Garden seating",
+      "Private rooms",
+      "Full bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-DEL-024",
+    "name": "GoodFoods Nehru Place",
+    "location": "Nehru Place",
+    "city": "Delhi",
+    "address": "2400 Nehru Place, New Delhi 110024",
+    "phone": "+91-11-60247024",
+    "seating_capacity": 88,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Garden seating",
+      "Private rooms",
+      "Full bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-DEL-025",
+    "name": "GoodFoods Lajpat Nagar",
+    "location": "Lajpat Nagar",
+    "city": "Delhi",
+    "address": "2500 Lajpat Nagar, New Delhi 110025",
+    "phone": "+91-11-60257025",
+    "seating_capacity": 90,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Garden seating",
+      "Private rooms",
+      "Full bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-DEL-026",
+    "name": "GoodFoods Rohini",
+    "location": "Rohini",
+    "city": "Delhi",
+    "address": "2600 Rohini, New Delhi 110026",
+    "phone": "+91-11-60267026",
+    "seating_capacity": 92,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Garden seating",
+      "Private rooms",
+      "Full bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-PUN-027",
+    "name": "GoodFoods Koregaon Park",
+    "location": "Koregaon Park",
+    "city": "Pune",
+    "address": "2700 Koregaon Park, Pune 411027",
+    "phone": "+91-20-80279027",
+    "seating_capacity": 138,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Cozy ambiance",
+      "Live music",
+      "Pet-friendly"
+    ]
+  },
+  {
+    "restaurant_id": "GF-PUN-028",
+    "name": "GoodFoods Viman Nagar",
+    "location": "Viman Nagar",
+    "city": "Pune",
+    "address": "2800 Viman Nagar, Pune 411028",
+    "phone": "+91-20-80289028",
+    "seating_capacity": 142,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Cozy ambiance",
+      "Live music",
+      "Pet-friendly"
+    ]
+  },
+  {
+    "restaurant_id": "GF-PUN-029",
+    "name": "GoodFoods Hinjewadi",
+    "location": "Hinjewadi",
+    "city": "Pune",
+    "address": "2900 Hinjewadi, Pune 411029",
+    "phone": "+91-20-80299029",
+    "seating_capacity": 146,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Cozy ambiance",
+      "Live music",
+      "Pet-friendly"
+    ]
+  },
+  {
+    "restaurant_id": "GF-PUN-030",
+    "name": "GoodFoods Aundh",
+    "location": "Aundh",
+    "city": "Pune",
+    "address": "3000 Aundh, Pune 411030",
+    "phone": "+91-20-80309030",
+    "seating_capacity": 150,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Cozy ambiance",
+      "Live music",
+      "Pet-friendly"
+    ]
+  },
+  {
+    "restaurant_id": "GF-PUN-031",
+    "name": "GoodFoods Kothrud",
+    "location": "Kothrud",
+    "city": "Pune",
+    "address": "3100 Kothrud, Pune 411031",
+    "phone": "+91-20-80319031",
+    "seating_capacity": 154,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Cozy ambiance",
+      "Live music",
+      "Pet-friendly"
+    ]
+  },
+  {
+    "restaurant_id": "GF-PUN-032",
+    "name": "GoodFoods Baner",
+    "location": "Baner",
+    "city": "Pune",
+    "address": "3200 Baner, Pune 411032",
+    "phone": "+91-20-80329032",
+    "seating_capacity": 158,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Cozy ambiance",
+      "Live music",
+      "Pet-friendly"
+    ]
+  },
+  {
+    "restaurant_id": "GF-AMD-033",
+    "name": "GoodFoods SG Highway",
+    "location": "SG Highway",
+    "city": "Ahmedabad",
+    "address": "3300 SG Highway, Ahmedabad 380033",
+    "phone": "+91-79-20333033",
+    "seating_capacity": 134,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Modern decor",
+      "Family-friendly",
+      "Outdoor seating"
+    ]
+  },
+  {
+    "restaurant_id": "GF-AMD-034",
+    "name": "GoodFoods Satellite",
+    "location": "Satellite",
+    "city": "Ahmedabad",
+    "address": "3400 Satellite, Ahmedabad 380034",
+    "phone": "+91-79-20343034",
+    "seating_capacity": 137,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Modern decor",
+      "Family-friendly",
+      "Outdoor seating"
+    ]
+  },
+  {
+    "restaurant_id": "GF-AMD-035",
+    "name": "GoodFoods Vastrapur",
+    "location": "Vastrapur",
+    "city": "Ahmedabad",
+    "address": "3500 Vastrapur, Ahmedabad 380035",
+    "phone": "+91-79-20353035",
+    "seating_capacity": 140,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Modern decor",
+      "Family-friendly",
+      "Outdoor seating"
+    ]
+  },
+  {
+    "restaurant_id": "GF-AMD-036",
+    "name": "GoodFoods Prahlad Nagar",
+    "location": "Prahlad Nagar",
+    "city": "Ahmedabad",
+    "address": "3600 Prahlad Nagar, Ahmedabad 380036",
+    "phone": "+91-79-20363036",
+    "seating_capacity": 143,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Modern decor",
+      "Family-friendly",
+      "Outdoor seating"
+    ]
+  },
+  {
+    "restaurant_id": "GF-AMD-037",
+    "name": "GoodFoods CG Road",
+    "location": "CG Road",
+    "city": "Ahmedabad",
+    "address": "3700 CG Road, Ahmedabad 380037",
+    "phone": "+91-79-20373037",
+    "seating_capacity": 146,
+    "operating_hours": "11:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Modern decor",
+      "Family-friendly",
+      "Outdoor seating"
+    ]
+  },
+  {
+    "restaurant_id": "GF-GOA-001",
+    "name": "GoodFoods Calangute Beach",
+    "location": "Calangute",
+    "city": "Goa",
+    "address": "Beach Road, Calangute, Goa 403516",
+    "phone": "+91-832-2276543",
+    "seating_capacity": 60,
+    "operating_hours": "10:00-00:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Beachfront",
+      "Sunset views",
+      "Live music",
+      "Full bar"
+    ]
+  },
+  {
+    "restaurant_id": "GF-CRU-001",
+    "name": "GoodFoods Cordelia Cruise",
+    "location": "Aboard Ship",
+    "city": "Cruise",
+    "address": "Cordelia Cruise Line",
+    "phone": "+91-22-6789-1234",
+    "seating_capacity": 80,
+    "operating_hours": "12:00-23:00",
+    "closed_days": [],
+    "cuisine": "Italian",
+    "features": [
+      "Ocean views",
+      "Fine dining",
+      "Premium experience"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "advance_booking_days": 30,
+  "same_day_cutoff_hours": 2,
+  "cancellation_notice_hours": 24,
+  "peak_hours": [
+    "19:00-22:00"
+  ],
+  "max_party_size": 20,
+  "table_turnover_minutes": 90
+}
