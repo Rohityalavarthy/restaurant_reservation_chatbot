@@ -20,7 +20,6 @@
 - [Business Strategy](#business-strategy)
 - [Assumptions & Limitations](#assumptions--limitations)
 - [Future Enhancements](#future-enhancements)
-- [Solution Design & Business Strategy Doc](#goodfoods-context)
 
 ---
 
@@ -658,8 +657,5 @@ goodfoods-ai-assistant/
 14. **Dynamic Pricing** - Surge pricing for high-demand slots
 15. **AI-Powered Recommendations** - "Based on your history, you might like..."
 
----
 
-### GoodFoods Context
-[Product Document](https://www.notion.so/GoodFoods-AI-Assistant-Use-Case-2b30fcb7c36780bcae75fe04344cbcbb?source=copy_link)
 
