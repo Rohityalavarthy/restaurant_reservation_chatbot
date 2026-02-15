@@ -1,4 +1,4 @@
-# 🍝 GoodFoods AI Reservation Assistant
+# 🍝 Restaurant AI Reservation Assistant
 
 > **A conversational AI booking platform built for GoodFoods' 50-restaurant chain across India, designed to scale to any time-bound resource allocation vertical (hotels, spas, salons, event venues).**
 
@@ -25,7 +25,7 @@
 
 ## 🎯 Overview
 
-GoodFoods AI Assistant is a **conversational booking platform** that replaces fragmented phone-based reservations with a unified AI-first channel. Built as an MVP for GoodFoods (a cult-favorite Italian restaurant chain with 50 locations across India), it demonstrates a domain-agnostic framework that can scale to any business requiring availability-based reservations.
+Restaurant AI Assistant is a **conversational booking platform** that replaces fragmented phone-based reservations with a unified AI-first channel. Built as an MVP for GoodFoods (a cult-favorite Italian restaurant chain with 50 locations across India), it demonstrates a domain-agnostic framework that can scale to any business requiring availability-based reservations.
 
 ## Video Demo
 
