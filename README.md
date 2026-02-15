@@ -1,6 +1,6 @@
 # 🍝 Restaurant AI Reservation Assistant
 
-> **A conversational AI booking platform built for GoodFoods' 50-restaurant chain across India, designed to scale to any time-bound resource allocation vertical (hotels, spas, salons, event venues).**
+> **A conversational AI booking platform built for Italianos' 50-restaurant chain across India, designed to scale to any time-bound resource allocation vertical (hotels, spas, salons, event venues).**
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
@@ -25,7 +25,7 @@
 
 ## 🎯 Overview
 
-Restaurant AI Assistant is a **conversational booking platform** that replaces fragmented phone-based reservations with a unified AI-first channel. Built as an MVP for GoodFoods (a cult-favorite Italian restaurant chain with 50 locations across India), it demonstrates a domain-agnostic framework that can scale to any business requiring availability-based reservations.
+Restaurant AI Assistant is a **conversational booking platform** that replaces fragmented phone-based reservations with a unified AI-first channel. Built as an MVP for Italiano (a cult-favorite Italian restaurant chain with 50 locations across India), it demonstrates a domain-agnostic framework that can scale to any business requiring availability-based reservations.
 
 ## Video Demo
 
@@ -66,7 +66,7 @@ Restaurant AI Assistant is a **conversational booking platform** that replaces f
 
 ### The Problem
 
-GoodFoods operates **50 restaurants across India** with fragmented phone-based reservations:
+Italiano operates **50 restaurants across India** with fragmented phone-based reservations:
 
 - ❌ **50 separate phone lines** - Customers navigate multiple numbers
 - ❌ **Peak hour chaos** - Missed calls = lost bookings (23% unanswered during rush)
@@ -136,13 +136,13 @@ You: Hi! I'd like to book a table for 4 people tomorrow at 8pm in Bandra
 
 Bot: Great! I found 2 great option(s):
 
-1. GoodFoods Bandra East 📍
+1. Italianos Bandra East 📍
    • Location: 200 Bandra East, Mumbai 400002
    • Available: 19:30, 19:45, 20:00
    • Capacity: 40 seats
    • Features: Outdoor seating, Valet parking
 
-2. GoodFoods Bandra West 📍
+2. Italianos Bandra West 📍
    • Location: 100 Bandra West, Mumbai 400001
    • Available: 19:30, 19:45, 20:00
    • Capacity: 35 seats
@@ -399,13 +399,13 @@ User: Hi! I'd like to book a table for 2 people tomorrow at 8pm in Bandra
 
 Bot: Great! I found 2 great option(s):
 
-**1. GoodFoods Bandra East** 📍
+**1. Italianos Bandra East** 📍
    • Location: 200 Bandra East, Mumbai 400002
    • Available: 19:30, 19:45, 20:00
    • Capacity: 40 seats
    • Features: Outdoor seating, Valet parking
 
-**2. GoodFoods Bandra West** 📍
+**2. Italianos Bandra West** 📍
    • Location: 100 Bandra West, Mumbai 400001
    • Available: 19:30, 19:45, 20:00
    • Capacity: 35 seats
@@ -413,12 +413,12 @@ Bot: Great! I found 2 great option(s):
 
 Which one would you like? Please also provide your name and phone number!
 
-User: GoodFoods Bandra East sounds good, I'm Rahul, 9876543210
+User: Italianos Bandra East sounds good, I'm Rahul, 9876543210
 
 Bot: ✅ **Booking Confirmed!**
 
 🎫 Confirmation: `GF-MUM-251125-A3F2`
-📍 Restaurant: GoodFoods Bandra East
+📍 Restaurant: Italianos Bandra East
 📅 Date: 2025-11-25
 🕐 Time: 20:00
 👥 Party: 2 people
@@ -486,7 +486,7 @@ User: 9876543210
 Bot: **Your Reservation** 📋
 
 🎫 Confirmation ID: `GF-MUM-251125-A3F2`
-📍 Restaurant: GoodFoods Bandra East
+📍 Restaurant: Italianos Bandra East
 📅 Date: 2025-11-25
 🕐 Time: 20:00
 👥 Party Size: 2 people
@@ -513,7 +513,7 @@ Cancelled successfully. Hope to see you another time!
 ## 📁 File Structure
 
 ```
-goodfoods-ai-assistant/
+restaurant-reservation-chatbot/
 │
 ├── app.py                          # Streamlit UI entry point
 │
@@ -551,7 +551,7 @@ goodfoods-ai-assistant/
 #### Phase 1: Mumbai Pilot (Weeks 1-8)
 
 **Why Mumbai First?**
-- Largest GoodFoods footprint (10 locations)
+- Largest Italianos footprint (10 locations)
 - Diverse customer base (tech-savvy + traditional)
 - Best test for system robustness
 
@@ -585,7 +585,7 @@ goodfoods-ai-assistant/
 
 ### Competitive Moat for Post Discovery Engagement
 
-| Factor | GoodFoods AI | Dineout/Zomato | Traditional Phone |
+| Factor | Italianos AI | Dineout/Zomato | Traditional Phone |
 |--------|--------------|----------------|-------------------|
 | **Commission** | 0% (own platform) | 15-25% | 0% |
 | **Customer Data** | 100% owned | Shared/Limited | None captured |
