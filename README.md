@@ -106,8 +106,8 @@ Solution is meant to own the post discovery phase and iteractions with customers
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/Rohityalavarthy/goodfoods_booking_system.git
-cd goodfoods-ai-assistant
+git clone https://github.com/Rohityalavarthy/restaurant_reservation_chatbot.git
+cd restaurant_reservation_chatbot
 
 # 2. Create virtual environment
 python -m venv venv
@@ -155,7 +155,7 @@ You: First one, Priya, 9876543210
 Bot: ✅ Booking Confirmed!
 
 🎫 Confirmation: GF-MUM-251125-A3F2
-📍 Restaurant: GoodFoods Bandra East
+📍 Restaurant: Italianos Bandra East
 📅 Date: 2025-11-25
 🕐 Time: 20:00
 👥 Party: 4 people
@@ -276,7 +276,7 @@ stateDiagram-v2
 ### System Prompt Structure
 
 ```python
-SYSTEM_PROMPT = """You are a restaurant reservation assistant for GoodFoods.
+SYSTEM_PROMPT = """You are a restaurant reservation assistant for Italianos.
 
 CURRENT DATE: {current_date}
 
@@ -579,7 +579,7 @@ restaurant-reservation-chatbot/
 **Target:** Package as SaaS for other restaurant chains + adjacent verticals
 
 **Pilot Partners:**
-- 2-3 restaurant chains (complementary to GoodFoods)
+- 2-3 restaurant chains (complementary to Italianos)
 - 1 hotel chain (test adjacent vertical)
 - 1 spa/salon (test service-based bookings)
 
